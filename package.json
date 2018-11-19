@@ -1,6 +1,6 @@
 {
-  "name": "node-nlp",
-  "version": "2.1.1",
+  "name": "@jnv/node-nlp",
+  "version": "2.1.2",
   "description": "Library for NLU (Natural Language Understanding) done in Node.js",
   "main": "lib/index.js",
   "scripts": {
@@ -18,7 +18,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/axa-group/nlp.js.git"
+    "url": "git+https://github.com/jnv/node-nlp.git"
   },
   "bugs": {
     "url": "https://github.com/axa-group/nlp.js/issues"
